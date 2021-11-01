@@ -1,1 +1,1 @@
-This project is just a mini project to generate complex passwords
+This is just a mini project to generate complex passwords
